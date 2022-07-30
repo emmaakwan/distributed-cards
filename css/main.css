@@ -56,3 +56,24 @@ ol li a {
   padding: .5em .75em .6em;
   border-radius: 8px;
 }
+
+ol p {
+  flex-grow: 1;
+  padding-bottom: .5rem;
+}
+
+ol img {
+  margin-top: .35rem;
+  margin-bottom: .35rem;
+}
+
+ol {
+  padding: 0;
+  justify-content: center;
+  display: grid;
+  gap: 1rem;
+  grid-template-column: 1fr 1fr;
+  grid-template-areas:
+  "li li"
+  "li li";
+}
