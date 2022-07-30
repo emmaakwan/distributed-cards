@@ -11,3 +11,20 @@ html {
 img {
   width: 100%;
 }
+
+body {
+  margin: 0;
+  max-width: 60em;
+}
+
+main {
+  background-color: #f5f20;
+  font-family: Georgia;
+  padding: 1rem;
+}
+
+h1 {
+  font-family: "Denk One";
+  color: #623b0c;
+  margin-top: .25rem;
+}
