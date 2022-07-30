@@ -28,3 +28,22 @@ h1 {
   color: #623b0c;
   margin-top: .25rem;
 }
+
+h2 {
+  font-family: "Denk One"
+  color: #623b0c;
+  padding-bottom: .3em;
+  margin-top: .25rem;
+}
+
+ol li {
+  list-style-type: none;
+  border: 2px solid #623b0c;
+  border-radius: 8px;
+  padding: 1rem;
+  background-color: #ede3db;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
