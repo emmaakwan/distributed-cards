@@ -47,3 +47,12 @@ ol li {
   flex-direction: column;
   justify-content: space-between;
 }
+
+ol li a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #623b0c;
+  display: block;
+  padding: .5em .75em .6em;
+  border-radius: 8px;
+}
