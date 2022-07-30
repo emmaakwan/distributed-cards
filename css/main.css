@@ -74,6 +74,6 @@ ol {
   gap: 1rem;
   grid-template-columns: 1fr 1fr;
   grid-template-areas:
-  "li li"
-  "li li";
+    "li li"
+    "li li";
 }
